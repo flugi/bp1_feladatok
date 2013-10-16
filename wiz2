@@ -1,0 +1,8 @@
+mcedit $1.1.input
+mcedit $1.1.output
+mcedit $1.2.input
+mcedit $1.2.output
+mcedit $1.3.input
+mcedit $1.3.output
+mcedit $1.4.input
+mcedit $1.4.output
